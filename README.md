@@ -1,7 +1,13 @@
 # Ferns & Petals Sales Analysis (Excel)
+#Executive Summary
 
-This project analyzes the sales performance of Ferns & Petals using Excel.  
-It includes data cleaning, exploratory analysis, and an interactive dashboard.
+The Fern & Petals Sales Analysis dashboard provides a clear overview of the company’s sales performance across orders, revenue, customer behavior, and product categories. The business recorded 1,000 orders with a total revenue of ₹3.6 lakh, supported by a strong average customer spend of ₹3,500.
+
+Revenue varies significantly across months, with noticeable spikes during festivals and special occasions. Occasion-based purchases such as Birthdays, Anniversaries, Raksha Bandhan, Diwali, Holi, and Valentine’s Day contribute heavily to total sales, confirming the importance of seasonal demand.
+
+Top-performing products include Bouquets, Cakes, and Chocolates, which consistently drive revenue. City-wise insights show that metro and high-population cities generate the majority of orders, indicating concentrated market demand.
+
+Operational performance is strong, with an average delivery time of 5.5 hours, and hourly order patterns highlight peak business hours for delivery planning. Overall, the analysis reflects growing customer demand, strong festive-driven sales, and efficient delivery operations. These insights can help optimize inventory, improve marketing strategies, and target the right customer segments more effectively.
 
 ## Objectives
 - Understand overall sales trends
